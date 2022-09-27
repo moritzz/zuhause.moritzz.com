@@ -2,3 +2,6 @@
 	path = Sources
 	url = git@github.com:moritzz/Zuhause.git
 	branch = master
+[submodule "Sources"]
+	path = Sources
+	url = git@github.com:moritzz/Zuhause.git
